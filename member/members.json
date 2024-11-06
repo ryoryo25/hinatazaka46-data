@@ -1,0 +1,335 @@
+[
+  {
+    "id": 0,
+    "name": {
+      "ja": "ポカ",
+      "en": "Poka"
+    },
+    "generation": 0,
+    "graduated": false
+  },
+  {
+    "id": 1,
+    "name": {
+      "ja": "井口 眞緒",
+      "en": "Mao Iguchi"
+    },
+    "generation": 1,
+    "graduated": true
+  },
+  {
+    "id": 2,
+    "name": {
+      "ja": "潮 紗理菜",
+      "en": "Sarina Ushio"
+    },
+    "generation": 1,
+    "graduated": true
+  },
+  {
+    "id": 3,
+    "name": {
+      "ja": "柿崎 芽実",
+      "en": "Memi Kakizaki"
+    },
+    "generation": 1,
+    "graduated": true
+  },
+  {
+    "id": 4,
+    "name": {
+      "ja": "影山 優佳",
+      "en": "Yuka Kageyama"
+    },
+    "generation": 1,
+    "graduated": true
+  },
+  {
+    "id": 5,
+    "name": {
+      "ja": "加藤 史帆",
+      "en": "Shiho Kato"
+    },
+    "generation": 1,
+    "graduated": false
+  },
+  {
+    "id": 6,
+    "name": {
+      "ja": "齊藤 京子",
+      "en": "Kyoko Saito"
+    },
+    "generation": 1,
+    "graduated": true
+  },
+  {
+    "id": 7,
+    "name": {
+      "ja": "佐々木 久美",
+      "en": "Kumi Sasaki"
+    },
+    "generation": 1,
+    "graduated": false
+  },
+  {
+    "id": 8,
+    "name": {
+      "ja": "佐々木 美玲",
+      "en": "Mirei Sasaki"
+    },
+    "generation": 1,
+    "graduated": false
+  },
+  {
+    "id": 9,
+    "name": {
+      "ja": "高瀬 愛奈",
+      "en": "Mana Takase"
+    },
+    "generation": 1,
+    "graduated": false
+  },
+  {
+    "id": 10,
+    "name": {
+      "ja": "高本 彩花",
+      "en": "Ayaka Takamoto"
+    },
+    "generation": 1,
+    "graduated": true
+  },
+  {
+    "id": 11,
+    "name": {
+      "ja": "東村 芽依",
+      "en": "Mei Higashimura"
+    },
+    "generation": 1,
+    "graduated": false
+  },
+  {
+    "id": 12,
+    "name": {
+      "ja": "金村 美玖",
+      "en": "Miku Kanemura"
+    },
+    "generation": 2,
+    "graduated": false
+  },
+  {
+    "id": 13,
+    "name": {
+      "ja": "河田 陽菜",
+      "en": "Hina Kawata"
+    },
+    "generation": 2,
+    "graduated": false
+  },
+  {
+    "id": 14,
+    "name": {
+      "ja": "小坂 菜緒",
+      "en": "Nao Kosaka"
+    },
+    "generation": 2,
+    "graduated": false
+  },
+  {
+    "id": 15,
+    "name": {
+      "ja": "富田 鈴花",
+      "en": "Suzuka Tomita"
+    },
+    "generation": 2,
+    "graduated": false
+  },
+  {
+    "id": 16,
+    "name": {
+      "ja": "丹生 明里",
+      "en": "Akari Nibu"
+    },
+    "generation": 2,
+    "graduated": false
+  },
+  {
+    "id": 17,
+    "name": {
+      "ja": "濱岸 ひより",
+      "en": "Hiyori Hamagishi"
+    },
+    "generation": 2,
+    "graduated": false
+  },
+  {
+    "id": 18,
+    "name": {
+      "ja": "松田 好花",
+      "en": "Konoka Matsuda"
+    },
+    "generation": 2,
+    "graduated": false
+  },
+  {
+    "id": 19,
+    "name": {
+      "ja": "宮田 愛萌",
+      "en": "Manamo Miyata"
+    },
+    "generation": 2,
+    "graduated": true
+  },
+  {
+    "id": 20,
+    "name": {
+      "ja": "渡邉 美穂",
+      "en": "Miho Watanabe"
+    },
+    "generation": 2,
+    "graduated": true
+  },
+  {
+    "id": 21,
+    "name": {
+      "ja": "上村 ひなの",
+      "en": "Hinano Kamimura"
+    },
+    "generation": 3,
+    "graduated": false
+  },
+  {
+    "id": 22,
+    "name": {
+      "ja": "髙橋 未来虹",
+      "en": "Mikuni Takahashi"
+    },
+    "generation": 3,
+    "graduated": false
+  },
+  {
+    "id": 23,
+    "name": {
+      "ja": "森本 茉莉",
+      "en": "Marie Morimoto"
+    },
+    "generation": 3,
+    "graduated": false
+  },
+  {
+    "id": 24,
+    "name": {
+      "ja": "山口 陽世",
+      "en": "Haruyo Yamaguchi"
+    },
+    "generation": 3,
+    "graduated": false
+  },
+  {
+    "id": 25,
+    "name": {
+      "ja": "石塚 瑶季",
+      "en": "Tamaki Ishizuka"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 26,
+    "name": {
+      "ja": "岸 帆夏",
+      "en": "Honoka Kishi"
+    },
+    "generation": 4,
+    "graduated": true
+  },
+  {
+    "id": 27,
+    "name": {
+      "ja": "小西 夏菜実",
+      "en": "Nanami Konishi"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 28,
+    "name": {
+      "ja": "清水 理央",
+      "en": "Rio Shimizu"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 29,
+    "name": {
+      "ja": "正源司 陽子",
+      "en": "Yoko Shogenji"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 30,
+    "name": {
+      "ja": "竹内 希来里",
+      "en": "Kirari Takeuchi"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 31,
+    "name": {
+      "ja": "平尾 帆夏",
+      "en": "Honoka Hirao"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 32,
+    "name": {
+      "ja": "平岡 海月",
+      "en": "Mitsuki Hiraoka"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 33,
+    "name": {
+      "ja": "藤嶌 果歩",
+      "en": "Kaho Fujishima"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 34,
+    "name": {
+      "ja": "宮地 すみれ",
+      "en": "Sumire Miyachi"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 35,
+    "name": {
+      "ja": "山下 葉留花",
+      "en": "Haruka Yamashita"
+    },
+    "generation": 4,
+    "graduated": false
+  },
+  {
+    "id": 36,
+    "name": {
+      "ja": "渡辺 莉奈",
+      "en": "Rina Watanabe"
+    },
+    "generation": 4,
+    "graduated": false
+  }
+]
